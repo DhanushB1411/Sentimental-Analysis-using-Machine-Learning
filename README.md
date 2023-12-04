@@ -1,4 +1,4 @@
-![Screenshot (19)](https://github.com/DhanushB1411/Sentimental-Analysis-using-Machine-Learning/assets/149883392/daa1eb3f-e894-4549-9c71-fb4177adf934)![front-end](https://github.com/DhanushB1411/Sentimental-Analysis-using-Machine-Learning/assets/149883392/f224ba69-ad3e-4d9e-b5d9-2dee5baaee65)![front-end](https://github.com/DhanushB1411/Sentimental-Analysis-using-Machine-Learning/assets/149883392/e76f823d-d2be-4eb9-a8f2-90249f775648)# Sentimental_Analysis_using_Machine_Learning
+ Sentimental_Analysis_using_Machine_Learning
 A Machine Learning Model that automatically decipher the emotional tone in text. By training a model on labeled datasets, the system learns to classify sentiments as positive or a negative.
 
 Please download the file from kaggle to increase the accuarcy of the model
