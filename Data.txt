@@ -1,2 +1,2 @@
 Please download the csv file from the below link(this data gives more accuracy to the model)
-https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+https://drive.google.com/file/d/1KXwrEFZSrSqTFDef6TzNuMrhBoTSgani/view?usp=drive_link
